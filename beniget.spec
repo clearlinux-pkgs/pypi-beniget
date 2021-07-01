@@ -4,7 +4,7 @@
 #
 Name     : beniget
 Version  : 0.4.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/36/09/a4a6a967ca5bcfc0bd6162df4ee93017301fa7d9671483c849300bdba0db/beniget-0.4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/36/09/a4a6a967ca5bcfc0bd6162df4ee93017301fa7d9671483c849300bdba0db/beniget-0.4.0.tar.gz
 Summary  : Extract semantic information about static Python code
